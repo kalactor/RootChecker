@@ -18,7 +18,7 @@ I just converted application in Jetpack-Compose
   style="display: inline-block; margin: 0 auto; width: 300px">  
   
   <h1>Contact</h1>
-  amity1401@gmail.com  
+  <a href="mailto:amity1401@gmail.com">amity1401@gmail.com</a><br>
   
   
  If it doesn't work then please let me know.
