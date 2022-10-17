@@ -1,5 +1,5 @@
 # RootChecker
-A simple application to check check device is rooted or not.  
+A simple application to check whether device is rooted or not.  
 If it doesn't work then please let me know.
 
 <h1>ScreenShots</h1>
