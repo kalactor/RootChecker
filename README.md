@@ -1,6 +1,8 @@
 # RootChecker
 A simple application to check whether device is rooted or not.  
-If it doesn't work then please let me know.
+
+Basic idea of application is taken from https://github.com/tiagorlampert/RootChecker.git  
+I just converted application in Jetpack-Compose  
 
 <h1>ScreenShots</h1>
 
@@ -13,5 +15,10 @@ If it doesn't work then please let me know.
   src="screenshots/Screenshot_20221017_182419.png"
   alt="Screenshots"
   title="Screenshots"
-  style="display: inline-block; margin: 0 auto; width: 300px">
- 
+  style="display: inline-block; margin: 0 auto; width: 300px">  
+  
+  <h1>Contact</h1>
+  amity1401@gmail.com  
+  
+  
+ If it doesn't work then please let me know.
