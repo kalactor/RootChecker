@@ -2,5 +2,16 @@
 A simple application to check check device is rooted or not.  
 If it doesn't work then please let me know.
 
-![Screenshots](Screenshot_20221017_182403.png "Screenshots")
-![Screenshots](Screenshot_20221017_182419.png "Screenshots")
+<h1>ScreenShots</h1>
+
+<img
+  src="Screenshot_20221017_182403.png"
+  alt="Screenshots"
+  title="Screenshots"
+  style="display: inline-block; margin: 0 auto; width: 300px">
+  <img
+  src="Screenshot_20221017_182419.png"
+  alt="Screenshots"
+  title="Screenshots"
+  style="display: inline-block; margin: 0 auto; width: 300px">
+ 
