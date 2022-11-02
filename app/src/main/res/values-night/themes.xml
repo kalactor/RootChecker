@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Theme.RootCheck" parent="android:Theme.Material.Light.NoActionBar">
-        <item name="android:statusBarColor">#191C1B</item>
+        <item name="android:statusBarColor">@color/darkGrey</item>
     </style>
 </resources>
